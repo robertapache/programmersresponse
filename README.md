@@ -10,4 +10,4 @@ It came to my mind that this list was quite funny but a little aged, as thanks t
 
 Feel free to create branches for your area of programming. And of course, alway have an excuse.
 
-Robert, December 20201
+Robert, December 2021
